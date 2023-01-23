@@ -1,1 +1,237 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T10:43:44.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="hKaa6JNsOZ_llvciGw9x" version="20.8.5" type="device"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-23T10:49:10.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="QMdlk57dkKp4xRKarIvg" version="20.8.8" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2389" dy="2068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-0" target="6Y8W2TB7dv4t2uycTGTC-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-0" target="mgAJt85id-DOq_A5Vf6w-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-0" value="Impiegato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-410" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-2" value="" style="swimlane;startSize=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-320" width="1160" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-80" value="Azienda Trasporto Urbano" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="tZdPgMZIe3CPcSE3-xP_-2" vertex="1">
+          <mxGeometry x="980" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-16" value="Accesso come addetto al personale" style="ellipse;whiteSpace=wrap;html=1;" parent="tZdPgMZIe3CPcSE3-xP_-2" vertex="1">
+          <mxGeometry x="500" y="40" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-17" value="Gestione degli impiegati" style="ellipse;whiteSpace=wrap;html=1;" parent="tZdPgMZIe3CPcSE3-xP_-2" vertex="1">
+          <mxGeometry x="170" y="40" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-18" value="Mezzi di trasporto&amp;nbsp;attualmente&amp;nbsp;guasti&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="tZdPgMZIe3CPcSE3-xP_-2" vertex="1">
+          <mxGeometry x="810" y="670" width="211.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-19" value="Mezzi di trasporto attualmente disponibili" style="ellipse;whiteSpace=wrap;html=1;" parent="tZdPgMZIe3CPcSE3-xP_-2" vertex="1">
+          <mxGeometry x="830" y="570" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-23" value="Posizione mezzi di trasporto" style="ellipse;whiteSpace=wrap;html=1;" parent="tZdPgMZIe3CPcSE3-xP_-2" vertex="1">
+          <mxGeometry x="390" y="420" width="222.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-24" value="Mezzi di trasporto attualmente in utilizzo" style="ellipse;whiteSpace=wrap;html=1;" parent="tZdPgMZIe3CPcSE3-xP_-2" vertex="1">
+          <mxGeometry x="370" y="310" width="228.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="tZdPgMZIe3CPcSE3-xP_-2" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="69.32999999999998" as="sourcePoint" />
+            <mxPoint x="500" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-9" value="Gestione informazioni personali" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="170" y="170" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="6Y8W2TB7dv4t2uycTGTC-23" target="mgAJt85id-DOq_A5Vf6w-17">
+          <mxGeometry x="-0.1138" y="11" width="160" relative="1" as="geometry">
+            <mxPoint x="690" y="434.5" as="sourcePoint" />
+            <mxPoint x="820" y="435" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-17" value="Mezzi di trasporto in deposito" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="810" y="380" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-18" value="Mezzi di trasporto in servizio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="830" y="460" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="6Y8W2TB7dv4t2uycTGTC-23" target="mgAJt85id-DOq_A5Vf6w-18">
+          <mxGeometry x="0.095" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="659.38" y="487.68" as="sourcePoint" />
+            <mxPoint x="831.7759235991433" y="500.00233047033606" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-21" value="Gestione mezzi di trasporto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="400" y="580" width="222.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="mgAJt85id-DOq_A5Vf6w-21" target="6Y8W2TB7dv4t2uycTGTC-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="640" y="535" as="sourcePoint" />
+            <mxPoint x="800" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="mgAJt85id-DOq_A5Vf6w-21" target="6Y8W2TB7dv4t2uycTGTC-18">
+          <mxGeometry x="0.1646" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="502.5" y="630" as="sourcePoint" />
+            <mxPoint x="662.5" y="630" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-25" value="Segnalazione mezzi di trasporto guasti" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="376.25" y="790" width="222.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="6Y8W2TB7dv4t2uycTGTC-24" target="mgAJt85id-DOq_A5Vf6w-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="632.5" y="339.5" as="sourcePoint" />
+            <mxPoint x="792.5" y="339.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-32" value="Tratte mezzi di trasporto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="790" y="300" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-38" value="Modifica tutti i dati relativi all&#39;impiegato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="890" y="140" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-39" value="Inserisci tutti i dati relativi all&#39;impiegato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="890" y="60" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-40" value="Visualizza dati personali" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="500" y="170" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-42" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="mgAJt85id-DOq_A5Vf6w-9" target="mgAJt85id-DOq_A5Vf6w-40">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="199.49999999999994" as="sourcePoint" />
+            <mxPoint x="500" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-43" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="6Y8W2TB7dv4t2uycTGTC-16" target="mgAJt85id-DOq_A5Vf6w-47">
+          <mxGeometry x="0.0098" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="149.99999999999994" as="sourcePoint" />
+            <mxPoint x="620" y="150.67000000000002" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="760" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-45" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="6Y8W2TB7dv4t2uycTGTC-16" target="mgAJt85id-DOq_A5Vf6w-39">
+          <mxGeometry x="0.0109" width="160" relative="1" as="geometry">
+            <mxPoint x="698.75" y="39.99999999999993" as="sourcePoint" />
+            <mxPoint x="838.75" y="40.67" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-46" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tZdPgMZIe3CPcSE3-xP_-2" source="6Y8W2TB7dv4t2uycTGTC-16" target="mgAJt85id-DOq_A5Vf6w-38">
+          <mxGeometry x="0.0118" y="12" width="160" relative="1" as="geometry">
+            <mxPoint x="664" y="129.99999999999994" as="sourcePoint" />
+            <mxPoint x="804" y="130.67000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-47" value="Visualizza tutti i dati relativi all&#39;impiegato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tZdPgMZIe3CPcSE3-xP_-2">
+          <mxGeometry x="900" y="220" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-3" value="Sistema Software" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-4" value="a destra gli attori secondari" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="830" y="-80" width="30" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-6" value="a sinistra gli attori primari" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-490" y="-80" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-14" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Un’azienda di trasporti urbani che dispone di mezzi di trasporto su gomma, richiede&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;un sistema software per la gestione di tutte le attività connesse alla gestione degli&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;impiegati, dei mezzi, del relativo deposito, delle corse provviste all’utenza e per la&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;comunicazione dei servizi al cittadino. Il sistema deve tenere traccia di tutto quello&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;che riguarda l’impiegato, sia dal punto di vista professionale (ruolo e turni di lavoro),&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;che remunerativo e deve permettere agli impiegati dell’azienda (con il ruolo di&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;addetto al personale), di visualizzare, inserire e modificare tutti i dati relativi&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;all’impiegato. All’interno del sistema dovranno essere presenti, oltre alle informazioni&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;relative a mezzi di trasporto utilizzati, relativi autisti e turni, anche le informazioni&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;relative ai mezzi di trasporto attualmente guasti e quelle relative ai mezzi di trasporto&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;disponibili. Devono essere incluse anche le informazioni sulle tratte dei mezzi&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;attualmente in servizio e la posizione dei mezzi (anche se sono in deposito).&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Inoltre dalla piattaforma dovrà essere possibile gestire e segnalare guasti al mezzo,&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;sia da parte del cittadino che da parte dell’autista.&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="-290" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-17" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Per creare un diagramma dei casi d&#39;uso per la gestione di un&#39;azienda di trasporti urbani,&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;è necessario identificare tutte le azioni o attività che l&#39;utente (in questo caso l&#39;impiegato, l&#39;autista e il cittadino) può intraprendere e come queste azioni interagiscono con il sistema software.&lt;/font&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Iniziare con l&#39;elenco delle azioni principali, come la gestione degli impiegati, dei mezzi, del deposito, delle corse e della comunicazione dei servizi al cittadino.&lt;/font&gt;&lt;/li&gt;&lt;br&gt;&lt;li style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Identificare i soggetti che possono intraprendere queste azioni, come l&#39;impiegato, l&#39;autista e il cittadino.&lt;/font&gt;&lt;/li&gt;&lt;br&gt;&lt;li style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Disegnare un rettangolo per ogni azione principale e scrivere il nome dell&#39;azione all&#39;interno del rettangolo.&lt;/font&gt;&lt;/li&gt;&lt;br&gt;&lt;li style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Disegnare delle frecce per indicare come ogni azione è legata alle altre e come ogni azione coinvolge un determinato soggetto.&lt;/font&gt;&lt;/li&gt;&lt;br&gt;&lt;li style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Aggiungere eventuali casi d&#39;uso secondari o azioni supplementari, come la gestione dei guasti al mezzo o la segnalazione dei guasti da parte del cittadino o dell&#39;autista.&lt;/font&gt;&lt;/li&gt;&lt;br&gt;&lt;li style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Aggiungere eventuali vincoli di sicurezza o di accesso al sistema software.&lt;/font&gt;&lt;/li&gt;&lt;br&gt;&lt;/ol&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Il diagramma dei casi d&#39;uso deve fornire una visione generale delle funzionalità del sistema software e delle interazioni tra gli utenti e il sistema.&lt;/font&gt;&lt;/p&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="545" y="1570" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-18" target="6Y8W2TB7dv4t2uycTGTC-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="400" />
+              <mxPoint x="-160" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Y8W2TB7dv4t2uycTGTC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-18" target="6Y8W2TB7dv4t2uycTGTC-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="400" />
+              <mxPoint x="-160" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-18" target="mgAJt85id-DOq_A5Vf6w-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="400" />
+              <mxPoint x="-160" y="260" />
+              <mxPoint x="-55" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-18" target="mgAJt85id-DOq_A5Vf6w-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="400" />
+              <mxPoint x="-160" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-18" target="mgAJt85id-DOq_A5Vf6w-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="400" />
+              <mxPoint x="-160" y="797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-18" value="Autista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-410" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mgAJt85id-DOq_A5Vf6w-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tZdPgMZIe3CPcSE3-xP_-19" target="mgAJt85id-DOq_A5Vf6w-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="600" />
+              <mxPoint x="-200" y="815" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-19" value="Cittadino" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-410" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-8" value="si intende un risultato senza il quale il caso d&#39;uso non può verificarsi" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="435" y="1210" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-9" value="si intende un risultato che potrebbe verificarsi solo in alcune circostanze" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1085" y="1340" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-11" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1020" y="1325" as="sourcePoint" />
+            <mxPoint x="1180" y="1325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370" y="1200" as="sourcePoint" />
+            <mxPoint x="530" y="1200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZdPgMZIe3CPcSE3-xP_-51" value="aggiungere vincolo personale e conducente" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="165" y="-110" width="30" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
